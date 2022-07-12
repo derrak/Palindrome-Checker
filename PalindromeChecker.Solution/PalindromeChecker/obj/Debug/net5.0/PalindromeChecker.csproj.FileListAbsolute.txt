@@ -1,0 +1,12 @@
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/bin/Debug/net5.0/PalindromeChecker.deps.json
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/bin/Debug/net5.0/PalindromeChecker.dll
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/bin/Debug/net5.0/ref/PalindromeChecker.dll
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/bin/Debug/net5.0/PalindromeChecker.pdb
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.csproj.AssemblyReference.cache
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.AssemblyInfoInputs.cache
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.AssemblyInfo.cs
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.csproj.CoreCompileInputs.cache
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.dll
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/ref/PalindromeChecker.dll
+/Users/derrak/Desktop/Palindrome-Checker/PalindromeChecker.Solution/PalindromeChecker/obj/Debug/net5.0/PalindromeChecker.pdb
